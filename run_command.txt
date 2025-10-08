@@ -1,0 +1,1 @@
+screen -S nb-batch -dm bash -lc "./run_notebooks_screen.sh"
