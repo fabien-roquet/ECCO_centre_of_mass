@@ -7,10 +7,12 @@ NOTEBOOKS=(                          # absolute or relative paths
   "/media/disk3/share_disk3/ECCO_products/compute_centre_of_mass/Roquet_et_al_2026/01.Global_Trends_N2_and_CoM.ipynb"
   "/media/disk3/share_disk3/ECCO_products/compute_centre_of_mass/Roquet_et_al_2026/01b.Trends_Visualisation.ipynb"
   "/media/disk3/share_disk3/ECCO_products/compute_centre_of_mass/Roquet_et_al_2026/02.Compute_Local_Trends.ipynb"
-  "/media/disk3/share_disk3/ECCO_products/compute_centre_of_mass/Roquet_et_al_2026/03.Plot_Local_Mean.ipynb"
-  "/media/disk3/share_disk3/ECCO_products/compute_centre_of_mass/Roquet_et_al_2026/04.Plot_Local_Trends.ipynb"
-  "/media/disk3/share_disk3/ECCO_products/compute_centre_of_mass/Roquet_et_al_2026/05.N2_and_CoM_Depths.ipynb"
-  "/media/disk3/share_disk3/ECCO_products/compute_centre_of_mass/Roquet_et_al_2026/06.Depths_Visualisation.ipynb"
+  "/media/disk3/share_disk3/ECCO_products/compute_centre_of_mass/Roquet_et_al_2026/02b.Plot_Local_Mean.ipynb"
+  "/media/disk3/share_disk3/ECCO_products/compute_centre_of_mass/Roquet_et_al_2026/02c.Plot_Local_Trends.ipynb"
+  "/media/disk3/share_disk3/ECCO_products/compute_centre_of_mass/Roquet_et_al_2026/03.N2_and_CoM_Depths.ipynb"
+  "/media/disk3/share_disk3/ECCO_products/compute_centre_of_mass/Roquet_et_al_2026/03b.Depths_Visualisation.ipynb"
+  "/media/disk3/share_disk3/ECCO_products/compute_centre_of_mass/Roquet_et_al_2026/04.N2_and_CoM_Partial_means.ipynb"
+  "/media/disk3/share_disk3/ECCO_products/compute_centre_of_mass/Roquet_et_al_2026/04b.Plot_partial_mean_Profiles.ipynb"
 )
 LOG_DIR="/media/disk3/share_disk3/ECCO_products/compute_centre_of_mass/Roquet_et_al_2026/nb_logs"            # where logs will be written
 INPLACE=true                         # true -> overwrite; false -> write *_executed.ipynb
